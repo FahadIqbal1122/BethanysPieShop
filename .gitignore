@@ -1,0 +1,8 @@
+﻿# Visual Studio & .NET
+**/[Bb]in/
+**/[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log

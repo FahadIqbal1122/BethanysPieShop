@@ -1,0 +1,20 @@
+# Visual Studio and .NET
+
+**/bin/
+
+**/obj/
+
+.vs/
+
+*.user
+
+*.suo
+
+*.cache
+
+*.log
+
+
+# Local development files
+
+appsettings.Development.json
